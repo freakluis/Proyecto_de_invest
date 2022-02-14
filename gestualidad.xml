@@ -1,0 +1,949 @@
+<?xml version="1.0" ?>
+<Responses>
+	<Response>
+		<startDate>2021-09-28 16:14:27</startDate>
+		<endDate>2021-09-28 16:24:54</endDate>
+		<status>IP Address</status>
+		<ipAddress>189.242.186.227</ipAddress>
+		<progress>100</progress>
+		<duration>626</duration>
+		<finished>True</finished>
+		<recordedDate>2021-09-28 16:24:55</recordedDate>
+		<_recordId>R_1GtghsmWwVA0Afv</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.287994384765625</locationLatitude>
+		<locationLongitude>-99.005096435546875</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Kim</QID35_TEXT>
+		<QID36_TEXT>Universidad Nacional Autónoma de México</QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>16</QID38_TEXT>
+		<QID93>Bachillerato</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>ist</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wo</QID7>
+		<QID20>haben</QID20>
+		<QID9>ist</QID9>
+		<QID11>keine</QID11>
+		<QID13>eine</QID13>
+		<QID15>Hast</QID15>
+		<QID19>mich</QID19>
+		<QID23>am Nachmittag dich rufe</QID23>
+		<QID184>stehe  immer früh</QID184>
+		<QID185>stattfindet um 19 Uhr</QID185>
+		<QID94_45></QID94_45>
+		<QID97_1></QID97_1>
+		<QID95_1></QID95_1>
+		<QID98_1></QID98_1>
+		<QID99_1></QID99_1>
+		<QID100_1></QID100_1>
+		<QID101_1></QID101_1>
+		<QID102_1></QID102_1>
+		<QID103_1></QID103_1>
+		<QID104_1></QID104_1>
+		<QID105_1></QID105_1>
+		<QID106_1></QID106_1>
+		<QID107_15></QID107_15>
+		<QID108_1></QID108_1>
+		<QID109_1></QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45></QID187_45>
+		<QID188_1></QID188_1>
+		<QID189_1></QID189_1>
+		<QID190_1></QID190_1>
+		<QID191_1></QID191_1>
+		<QID192_1></QID192_1>
+		<QID193_1></QID193_1>
+		<QID194_1></QID194_1>
+		<QID195_1></QID195_1>
+		<QID196_1></QID196_1>
+		<QID197_1></QID197_1>
+		<QID198_1></QID198_1>
+		<QID199_15></QID199_15>
+		<QID200_1></QID200_1>
+		<QID201_1></QID201_1>
+		<QID211_1></QID211_1>
+		<QID212_1></QID212_1>
+		<QID213_1></QID213_1>
+		<SC_beA3Zwo8WuwO2IS>3</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-09-28 16:09:40</startDate>
+		<endDate>2021-09-28 16:45:19</endDate>
+		<status>IP Address</status>
+		<ipAddress>189.217.197.24</ipAddress>
+		<progress>100</progress>
+		<duration>2139</duration>
+		<finished>True</finished>
+		<recordedDate>2021-09-28 16:45:20</recordedDate>
+		<_recordId>R_1nYJvUGFPhHJzro</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.437103271484375</locationLatitude>
+		<locationLongitude>-99.01110076904296875</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>ReTman</QID35_TEXT>
+		<QID36_TEXT>ENP1</QID36_TEXT>
+		<QID37>Masculino</QID37>
+		<QID38_TEXT>16</QID38_TEXT>
+		<QID93>Bachillerato</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>haben</QID20>
+		<QID9>haben</QID9>
+		<QID11>eine</QID11>
+		<QID13>ein</QID13>
+		<QID15>Brauchst</QID15>
+		<QID19>mich</QID19>
+		<QID23>am Nachmittag dich rufe</QID23>
+		<QID184>stehe  immer früh</QID184>
+		<QID185>stattfindet um 19 Uhr</QID185>
+		<QID94_45>2</QID94_45>
+		<QID97_1>1</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>1</QID98_1>
+		<QID99_1>1</QID99_1>
+		<QID100_1>1</QID100_1>
+		<QID101_1>1</QID101_1>
+		<QID102_1>3</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>5</QID104_1>
+		<QID105_1>4</QID105_1>
+		<QID106_1>5</QID106_1>
+		<QID107_15>3</QID107_15>
+		<QID108_1>3</QID108_1>
+		<QID109_1>1</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45>1</QID187_45>
+		<QID188_1>4</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>4</QID191_1>
+		<QID192_1>5</QID192_1>
+		<QID193_1>1</QID193_1>
+		<QID194_1>1</QID194_1>
+		<QID195_1>5</QID195_1>
+		<QID196_1>5</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>5</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>1</QID200_1>
+		<QID201_1>4</QID201_1>
+		<QID211_1></QID211_1>
+		<QID212_1></QID212_1>
+		<QID213_1></QID213_1>
+		<SC_beA3Zwo8WuwO2IS>3</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-10-21 11:11:41</startDate>
+		<endDate>2021-10-21 11:27:08</endDate>
+		<status>Survey Preview</status>
+		<ipAddress></ipAddress>
+		<progress>100</progress>
+		<duration>926</duration>
+		<finished>True</finished>
+		<recordedDate>2021-10-21 11:27:10</recordedDate>
+		<_recordId>R_6EuHw3NN7iVXGBr</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.6305999755859375</locationLatitude>
+		<locationLongitude>-99.2339019775390625</locationLongitude>
+		<distributionChannel>preview</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>No</QID32>
+		<QID33>No</QID33>
+		<QID35_TEXT>Chique Manrique</QID35_TEXT>
+		<QID36_TEXT>FFyL</QID36_TEXT>
+		<QID37>Masculino</QID37>
+		<QID38_TEXT>22</QID38_TEXT>
+		<QID93>Posgrado</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>hatten</QID20>
+		<QID9>sind</QID9>
+		<QID11>keine</QID11>
+		<QID13>einen</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr statt</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>1</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>2</QID99_1>
+		<QID100_1>2</QID100_1>
+		<QID101_1>5</QID101_1>
+		<QID102_1>1</QID102_1>
+		<QID103_1>1</QID103_1>
+		<QID104_1>2</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>3</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>2</QID108_1>
+		<QID109_1>1</QID109_1>
+		<QID202>Aus Dortmund.</QID202>
+		<QID203>Jeden Abend.</QID203>
+		<QID204>Helga</QID204>
+		<QID205>Auf ein Examen.</QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45>1</QID187_45>
+		<QID188_1>1</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>2</QID191_1>
+		<QID192_1>4</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>1</QID194_1>
+		<QID195_1>1</QID195_1>
+		<QID196_1>2</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>4</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>2</QID200_1>
+		<QID201_1>2</QID201_1>
+		<QID211_1>4</QID211_1>
+		<QID212_1>3</QID212_1>
+		<QID213_1>4</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>12</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-10-21 14:05:59</startDate>
+		<endDate>2021-10-21 14:09:26</endDate>
+		<status>Survey Preview</status>
+		<ipAddress></ipAddress>
+		<progress>100</progress>
+		<duration>206</duration>
+		<finished>True</finished>
+		<recordedDate>2021-10-21 14:09:27</recordedDate>
+		<_recordId>R_2qCYBo7UdRh6oew</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.3782958984375</locationLatitude>
+		<locationLongitude>-99.16210174560546875</locationLongitude>
+		<distributionChannel>preview</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>pll`</QID35_TEXT>
+		<QID36_TEXT>mplm</QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>2</QID38_TEXT>
+		<QID93>Bachillerato</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie bist du?</QID5>
+		<QID7>Wohin</QID7>
+		<QID20>haben</QID20>
+		<QID9>sind</QID9>
+		<QID11>kein</QID11>
+		<QID13>ein</QID13>
+		<QID15>Kochst</QID15>
+		<QID19>ich</QID19>
+		<QID23>am Nachmittag dich rufe</QID23>
+		<QID184>aufstehe immer früh</QID184>
+		<QID185>findet um 19 Uhr</QID185>
+		<QID94_45>3</QID94_45>
+		<QID97_1>3</QID97_1>
+		<QID95_1>3</QID95_1>
+		<QID98_1>3</QID98_1>
+		<QID99_1>3</QID99_1>
+		<QID100_1>3</QID100_1>
+		<QID101_1>3</QID101_1>
+		<QID102_1>3</QID102_1>
+		<QID103_1>3</QID103_1>
+		<QID104_1>3</QID104_1>
+		<QID105_1>3</QID105_1>
+		<QID106_1>3</QID106_1>
+		<QID107_15>3</QID107_15>
+		<QID108_1>3</QID108_1>
+		<QID109_1>3</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206>Aus Hamburg.</QID206>
+		<QID207>Jeden Tag</QID207>
+		<QID208>Helga</QID208>
+		<QID209>Auf ein Examen.</QID209>
+		<QID187_45>3</QID187_45>
+		<QID188_1>3</QID188_1>
+		<QID189_1>3</QID189_1>
+		<QID190_1>3</QID190_1>
+		<QID191_1>3</QID191_1>
+		<QID192_1>3</QID192_1>
+		<QID193_1>3</QID193_1>
+		<QID194_1>3</QID194_1>
+		<QID195_1>3</QID195_1>
+		<QID196_1>3</QID196_1>
+		<QID197_1>3</QID197_1>
+		<QID198_1>3</QID198_1>
+		<QID199_15>3</QID199_15>
+		<QID200_1>3</QID200_1>
+		<QID201_1>3</QID201_1>
+		<QID211_1>3</QID211_1>
+		<QID212_1>3</QID212_1>
+		<QID213_1>3</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>2</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:08:19</startDate>
+		<endDate>2021-11-03 15:27:06</endDate>
+		<status>IP Address</status>
+		<ipAddress>187.162.68.205</ipAddress>
+		<progress>100</progress>
+		<duration>1126</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:27:06</recordedDate>
+		<_recordId>R_1MZplsEuNK8qYAh</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.435394287109375</locationLatitude>
+		<locationLongitude>-99.1427001953125</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Citlali</QID35_TEXT>
+		<QID36_TEXT>FES Cuautitlán </QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>21</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>haben</QID20>
+		<QID9>ist</QID9>
+		<QID11>keine</QID11>
+		<QID13>ein</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr</QID185>
+		<QID94_45>3</QID94_45>
+		<QID97_1>2</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>2</QID99_1>
+		<QID100_1>5</QID100_1>
+		<QID101_1>4</QID101_1>
+		<QID102_1>2</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>1</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>5</QID106_1>
+		<QID107_15>4</QID107_15>
+		<QID108_1>1</QID108_1>
+		<QID109_1>2</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206>Aus Dortmund.</QID206>
+		<QID207>Jeden Abend.</QID207>
+		<QID208>Helga</QID208>
+		<QID209>Auf ein Examen.</QID209>
+		<QID187_45>2</QID187_45>
+		<QID188_1>2</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>3</QID191_1>
+		<QID192_1>3</QID192_1>
+		<QID193_1>4</QID193_1>
+		<QID194_1>1</QID194_1>
+		<QID195_1>2</QID195_1>
+		<QID196_1>2</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>5</QID198_1>
+		<QID199_15>4</QID199_15>
+		<QID200_1>2</QID200_1>
+		<QID201_1>2</QID201_1>
+		<QID211_1>4</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>3</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>8</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:44</startDate>
+		<endDate>2021-11-03 15:36:25</endDate>
+		<status>IP Address</status>
+		<ipAddress>189.217.219.130</ipAddress>
+		<progress>100</progress>
+		<duration>1721</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:36:25</recordedDate>
+		<_recordId>R_b2sqdHQ5kMlSTHb</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.5323944091796875</locationLatitude>
+		<locationLongitude>-99.189697265625</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Angeles Stefania </QID35_TEXT>
+		<QID36_TEXT>Facultad de Estudios Superiores Cuautitlán </QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>21</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie bist du?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>waren</QID20>
+		<QID9>ist</QID9>
+		<QID11>keine</QID11>
+		<QID13>ein</QID13>
+		<QID15>Hast</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>aufstehe immer früh</QID184>
+		<QID185>findet um 19 Uhr statt</QID185>
+		<QID94_45>4</QID94_45>
+		<QID97_1>1</QID97_1>
+		<QID95_1>4</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>4</QID99_1>
+		<QID100_1>4</QID100_1>
+		<QID101_1>4</QID101_1>
+		<QID102_1>2</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>4</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>3</QID106_1>
+		<QID107_15>1</QID107_15>
+		<QID108_1>3</QID108_1>
+		<QID109_1>3</QID109_1>
+		<QID202>Aus Dortmund.</QID202>
+		<QID203>Jeden Abend.</QID203>
+		<QID204>Helga</QID204>
+		<QID205>Auf ein Examen.</QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45>1</QID187_45>
+		<QID188_1>1</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>2</QID191_1>
+		<QID192_1>4</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>3</QID194_1>
+		<QID195_1>5</QID195_1>
+		<QID196_1>2</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>5</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>5</QID200_1>
+		<QID201_1>2</QID201_1>
+		<QID211_1>5</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>1</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>6</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:41</startDate>
+		<endDate>2021-11-03 15:38:15</endDate>
+		<status>IP Address</status>
+		<ipAddress>201.141.16.94</ipAddress>
+		<progress>100</progress>
+		<duration>1833</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:38:16</recordedDate>
+		<_recordId>R_1LcjO1O2ZeOLzlm</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.5287933349609375</locationLatitude>
+		<locationLongitude>-99.20490264892578125</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Daniel Yasar Gutiérrez</QID35_TEXT>
+		<QID36_TEXT>Facultad de Estudios Superiores Cuautitlán</QID36_TEXT>
+		<QID37>Masculino</QID37>
+		<QID38_TEXT>19</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>waren</QID20>
+		<QID9>sind</QID9>
+		<QID11>keine</QID11>
+		<QID13>einen</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr statt</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>2</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>1</QID99_1>
+		<QID100_1>5</QID100_1>
+		<QID101_1>4</QID101_1>
+		<QID102_1>2</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>2</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>1</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>2</QID108_1>
+		<QID109_1>5</QID109_1>
+		<QID202>Aus Dortmund.</QID202>
+		<QID203>Jeden Tag</QID203>
+		<QID204>Helga</QID204>
+		<QID205>Auf ein Examen.</QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45>1</QID187_45>
+		<QID188_1>1</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>1</QID191_1>
+		<QID192_1>5</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>2</QID194_1>
+		<QID195_1>1</QID195_1>
+		<QID196_1>2</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>1</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>2</QID200_1>
+		<QID201_1>5</QID201_1>
+		<QID211_1>4</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>4</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>11</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:39</startDate>
+		<endDate>2021-11-03 15:39:42</endDate>
+		<status>IP Address</status>
+		<ipAddress>189.217.49.139</ipAddress>
+		<progress>100</progress>
+		<duration>1923</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:39:42</recordedDate>
+		<_recordId>R_1jZLnlqiDB1Bza1</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.33740234375</locationLatitude>
+		<locationLongitude>-98.8834991455078125</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Dhamar Sahian Rodriguez Cruz </QID35_TEXT>
+		<QID36_TEXT>FES Cuautitlán </QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>23</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>hatten</QID20>
+		<QID9>ist</QID9>
+		<QID11>keine</QID11>
+		<QID13>einen</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>3</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>3</QID99_1>
+		<QID100_1>4</QID100_1>
+		<QID101_1>4</QID101_1>
+		<QID102_1>1</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>3</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>4</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>4</QID108_1>
+		<QID109_1>5</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206>Aus Dortmund.</QID206>
+		<QID207>Jeden Abend.</QID207>
+		<QID208>Helga</QID208>
+		<QID209>Auf ein Examen.</QID209>
+		<QID187_45>3</QID187_45>
+		<QID188_1>4</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>4</QID191_1>
+		<QID192_1>4</QID192_1>
+		<QID193_1>1</QID193_1>
+		<QID194_1>1</QID194_1>
+		<QID195_1>1</QID195_1>
+		<QID196_1>4</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>4</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>4</QID200_1>
+		<QID201_1>1</QID201_1>
+		<QID211_1>5</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>2</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>9</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:51</startDate>
+		<endDate>2021-11-03 15:42:39</endDate>
+		<status>IP Address</status>
+		<ipAddress>189.139.49.25</ipAddress>
+		<progress>100</progress>
+		<duration>2088</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:42:40</recordedDate>
+		<_recordId>R_2tyRSr9jn0JNsUm</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.6573028564453125</locationLatitude>
+		<locationLongitude>-99.20760345458984375</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Arm Cáz</QID35_TEXT>
+		<QID36_TEXT>FES-C, UNAM</QID36_TEXT>
+		<QID37>Masculino</QID37>
+		<QID38_TEXT>22</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>hatten</QID20>
+		<QID9>sind</QID9>
+		<QID11>keine</QID11>
+		<QID13>einen</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr statt</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>1</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>1</QID99_1>
+		<QID100_1>4</QID100_1>
+		<QID101_1>5</QID101_1>
+		<QID102_1>1</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>1</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>4</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>1</QID108_1>
+		<QID109_1>2</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206>Aus Dortmund.</QID206>
+		<QID207>Jeden Abend.</QID207>
+		<QID208>Helga</QID208>
+		<QID209>Auf ein Examen.</QID209>
+		<QID187_45>1</QID187_45>
+		<QID188_1>1</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>1</QID191_1>
+		<QID192_1>2</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>2</QID194_1>
+		<QID195_1>1</QID195_1>
+		<QID196_1>1</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>2</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>1</QID200_1>
+		<QID201_1>2</QID201_1>
+		<QID211_1>4</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>1</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>12</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:45</startDate>
+		<endDate>2021-11-03 15:43:02</endDate>
+		<status>IP Address</status>
+		<ipAddress>201.141.22.115</ipAddress>
+		<progress>100</progress>
+		<duration>2116</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:43:03</recordedDate>
+		<_recordId>R_28Hf4VpYHob0bkq</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.552703857421875</locationLatitude>
+		<locationLongitude>-99.13739776611328125</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Diana Ivette Ramírez Trinidad</QID35_TEXT>
+		<QID36_TEXT>Facultad de Estudios Superiores Cuautitlán</QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>21</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>haben</QID20>
+		<QID9>sind</QID9>
+		<QID11>keine</QID11>
+		<QID13>ein</QID13>
+		<QID15>Möchtest</QID15>
+		<QID19>mich</QID19>
+		<QID23>anrufe dich am Nachmittag</QID23>
+		<QID184>stehe immer früh auf</QID184>
+		<QID185>findet um 19 Uhr</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>2</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>1</QID98_1>
+		<QID99_1>4</QID99_1>
+		<QID100_1>5</QID100_1>
+		<QID101_1>4</QID101_1>
+		<QID102_1>4</QID102_1>
+		<QID103_1>1</QID103_1>
+		<QID104_1>4</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>5</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>4</QID108_1>
+		<QID109_1>1</QID109_1>
+		<QID202>Aus Dortmund.</QID202>
+		<QID203>Jeden Abend.</QID203>
+		<QID204>Helga</QID204>
+		<QID205>Auf ein Examen.</QID205>
+		<QID179></QID179>
+		<QID206></QID206>
+		<QID207></QID207>
+		<QID208></QID208>
+		<QID209></QID209>
+		<QID187_45>2</QID187_45>
+		<QID188_1>1</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>2</QID191_1>
+		<QID192_1>2</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>3</QID194_1>
+		<QID195_1>4</QID195_1>
+		<QID196_1>4</QID196_1>
+		<QID197_1>4</QID197_1>
+		<QID198_1>5</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>4</QID200_1>
+		<QID201_1>1</QID201_1>
+		<QID211_1>5</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>3</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>8</SC_beA3Zwo8WuwO2IS>
+	</Response>
+	<Response>
+		<startDate>2021-11-03 15:07:41</startDate>
+		<endDate>2021-11-03 15:52:02</endDate>
+		<status>IP Address</status>
+		<ipAddress>187.230.155.247</ipAddress>
+		<progress>100</progress>
+		<duration>2660</duration>
+		<finished>True</finished>
+		<recordedDate>2021-11-03 15:52:02</recordedDate>
+		<_recordId>R_upRO6awDzbx7wC5</_recordId>
+		<recipientLastName></recipientLastName>
+		<recipientFirstName></recipientFirstName>
+		<recipientEmail></recipientEmail>
+		<externalDataReference></externalDataReference>
+		<locationLatitude>19.4340972900390625</locationLatitude>
+		<locationLongitude>-99.1967010498046875</locationLongitude>
+		<distributionChannel>anonymous</distributionChannel>
+		<userLanguage>EN</userLanguage>
+		<Q_RecaptchaScore>1</Q_RecaptchaScore>
+		<QID30>Estoy de acuerdo en continuar con el estudio.</QID30>
+		<QID32>Sí</QID32>
+		<QID33>Sí</QID33>
+		<QID35_TEXT>Iraide Teresa Romero Lerma </QID35_TEXT>
+		<QID36_TEXT>FES Cuautitlan </QID36_TEXT>
+		<QID37>Femenino</QID37>
+		<QID38_TEXT>20</QID38_TEXT>
+		<QID93>Licenciatura</QID93>
+		<QID41>No</QID41>
+		<QID41_4_TEXT></QID41_4_TEXT>
+		<QID29></QID29>
+		<QID1>heiße</QID1>
+		<QID5>Wie geht es dir?</QID5>
+		<QID7>Wann</QID7>
+		<QID20>haben</QID20>
+		<QID9>ist</QID9>
+		<QID11>keine</QID11>
+		<QID13>einen</QID13>
+		<QID15>Hast</QID15>
+		<QID19>Sie</QID19>
+		<QID23>rufe dich am Nachmittag an</QID23>
+		<QID184>aufstehe immer früh</QID184>
+		<QID185>findet um 19 Uhr statt</QID185>
+		<QID94_45>1</QID94_45>
+		<QID97_1>5</QID97_1>
+		<QID95_1>5</QID95_1>
+		<QID98_1>5</QID98_1>
+		<QID99_1>1</QID99_1>
+		<QID100_1>2</QID100_1>
+		<QID101_1>3</QID101_1>
+		<QID102_1>1</QID102_1>
+		<QID103_1>2</QID103_1>
+		<QID104_1>3</QID104_1>
+		<QID105_1>5</QID105_1>
+		<QID106_1>2</QID106_1>
+		<QID107_15>5</QID107_15>
+		<QID108_1>1</QID108_1>
+		<QID109_1>1</QID109_1>
+		<QID202></QID202>
+		<QID203></QID203>
+		<QID204></QID204>
+		<QID205></QID205>
+		<QID179></QID179>
+		<QID206>Aus Dortmund.</QID206>
+		<QID207>Jeden Abend.</QID207>
+		<QID208>Bertha</QID208>
+		<QID209>Auf ein Examen.</QID209>
+		<QID187_45>5</QID187_45>
+		<QID188_1>5</QID188_1>
+		<QID189_1>5</QID189_1>
+		<QID190_1>5</QID190_1>
+		<QID191_1>1</QID191_1>
+		<QID192_1>2</QID192_1>
+		<QID193_1>5</QID193_1>
+		<QID194_1>1</QID194_1>
+		<QID195_1>1</QID195_1>
+		<QID196_1>2</QID196_1>
+		<QID197_1>5</QID197_1>
+		<QID198_1>3</QID198_1>
+		<QID199_15>5</QID199_15>
+		<QID200_1>1</QID200_1>
+		<QID201_1>2</QID201_1>
+		<QID211_1>5</QID211_1>
+		<QID212_1>5</QID212_1>
+		<QID213_1>1</QID213_1>
+		<SC_beA3Zwo8WuwO2IS>7</SC_beA3Zwo8WuwO2IS>
+	</Response>
+</Responses>

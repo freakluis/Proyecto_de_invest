@@ -1,0 +1,24 @@
+Condición SG
+
+Número de candidatos: 3
+
+Suma de respuestas pre-test:
+
+[5, 5, 1, 5, 5, 5, 1, 5, 5]
+
+Suma de respuestas en post-test:
+
+[5, 5, 5, 5, 5, 4, 5, 5, 5]
+
+
+Condición G
+
+Número de candidatos: 4
+
+Suma de respuestas pre-test:
+
+[5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5]
+
+Suma de respuestas post-test:
+
+postTestG = [5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5]

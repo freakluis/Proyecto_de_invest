@@ -1,0 +1,74 @@
+PARADIGMAS
+
+Mi experimento se basa en un paradigma offline, pues tiene acceso a la interpretación final.
+
+El paradigma offline específico que utilizo es el de juicios de aceptabilidad:
+
+- Muy común en sintaxis
+- Evalúa la gramaticalidad de las oraciones. Chomsky: aceptabilidad, más que gramticalidad, pues éste último es un constructo abstracto.
+- Hoy este tipo de [paradigmas] son usados en otros niveles de la lengua como la semántica y la pragmática.
+- Reporta la reacción espontánea de los hablantes. Son una percepción reportada.
+- Usos: para obtener evidencia acerca de la gramaticalidad  de oraciones que no han sido producidas de manera natural
+
+Cuantitativas:
+
+Tarea de la escala de Likert. / Tarea de estimación de magnitud
+
+Tarea en la escala de Likert:
+
+Ventajas:
+- Se pueden identificar matices
+- Tarea intuitiva
+
+Desventajas:
+- No se puede saber si los participantes hacen la misma diferencia entre los intervalos de la escala (entre 1 y 2 o el 3 y el 4).
+- Puede haber sesgos hacia un parte de la escala.
+
+TAREAS
+
+Los paradigmas se basan en tareas:
+
+- Tarea de juicio a partir de un contexto
+- Tarea de interpretación de enunciados a través de un estímulo
+- Tarea de acción
+
+En estos tres casos se incluye la semántica de las oraciones como parte escencial de la interpretación. En mi experimento, en cambio, las consideraciones respecto al significado de las oraciones se dejan completamente de lado para centrarse sólamente en ver si el candidato logra distinguir los sintagmas correctamente formados. (la relación sintagma-paradigma)
+
+"Acceptability judgements have mainly been used in the fields of syntax and semantics. Linguists, particularly in the Chomskyan tradition, think that acceptability judgements shed light on the structure of the knowledge of language and represent a direct reflection of it.
+
+When used in compliance with the principles of experimental methodology, by presenting numerous items to many naive subjects, acceptability judgements can provide quality information. [...] Conclusions drawn from acceptability judgements often have to be corroborated by other methods.
+
+The acceptability of stimuli may not depend exclusively on the variable under investigation, but on other aspects, such as the difficulty of processing them or their improbability. A final limitation related to acceptability judgements is the necessity they imply, for the interviewees to have a certain metalinguistic competence [in our case that is ok, because we had previously provided students with this metalinguistic competence]
+
+
+Los datos son categóricos. Las escalas de Likert son datos categóricos ordinales. No se pueden hacer promedios. DE HECHO, ES UNA CUESTIÓN FORTUITA QUE SE LES HUBIESEN OFRECIDO NÚMERO A LOS PARTICIPANTES PARA MARCAR EL GRADO DE CORRECCIÓN DE LAS ORACIONES. SE LES PODÍAN HABER DADO DESCRIPCIONES A CADA UNO DE LOS VALORES QUE EN EL EXPERIMENTO SE NOMBRARO COMO 2, 3 Y 4. ASÍ NO SE TENDRÍA NINGUNA JUSTIFICACIÓN PARA QUERER HACER CORRELACIONES NUMÉRICAS.
+
+"Variables like BMXWT which represent a QUANTITATIVE MEASUREMENT will typically be stored as floating point data values."
+Se pueden hacer tendencias, sin embargo.
+
+Al ser variables categóricas, no se puede saber la distancia entre cada uno de los números, por lo tanto no se pueden hacer promedios. Los histogramas que se presentan simplemente muestran si las calificaciones de aceptabilidad dadas por los alumnos a las oraciones se aglutinan respecto a algún valor.
+
+Si se espera utilizar un análisis paramétrico, el hecho de tener un dataset resultante de una escala de Likert es un problema porque los datos de Likert son ordinales, discretos y tienen un rango limitado. Estas propiedades violan los presupuestos de la mayoría de las pruebas paramétricas. Las pruebas paramétricas asumen que los datos son continuos y que siguen una distribución normal.
+
+Variables cuantitativas
+
+- Son cantidades numéricas y mensurables a las que tiene sentido aplicar operaciones aritméticas (como la edad)
+
+Variables cualitativas
+
+- Clasifican individuos o elementos en diferentes grupos
+- Se clasifican en ordinales (los grupos tienen un orden o un ranking) y nominales (no tienen ningún ranking asociado)
+
+Mi hipótesis:
+
+H1: el uso de una gestualidad didáctica de diseño tendrá un efecto positivo mensurable en la comprensión y retención de en un grupo de sujetos de una explicación dada a través de un video sobre el comportamiento sintáctico básico de los verbos separables del alemán al ser utilizados en oraciones declarativas simples en presente del indicativo. Y esto se verá reflejado en sus respuestas en la tarea de juicio de aceptabilidad.
+
+La manera como se mide el efecto positivo es a través de la tendencia (NO FORTUITA, porque se repite) de los alumnos de calificar las oraciones de los reactivos principales con el número 5 de la escala de Likert, como se esperaba.
+
+El mío es un CONFIRMATORY RESEARCH STUDY.
+
+Experiments often involve random assignment of subjects to "treatment arms".
+
+Power Analysis (prediction power?) is a process to assess whether a given study design is likely to yield meaningful findings.
+
+Ordinal variables consist of groups or names with an inherent ordering or ranking.
