@@ -31,9 +31,10 @@ bs_data = BeautifulSoup(data, 'xml')
 
 ###Este trozo de código descubre qué participantes fuerone expuestos a qué
 ###condición y los guarda en una lista según corresponda
-umstaende = bs_data.find_all('QID202')
+#umstaende = bs_data.find_all('QID202')
 
 def tellsConditionsAppart():
+    umstaende = bs_data.find_all('QID202')
     condicionG = []
     condicionSG = []
 
